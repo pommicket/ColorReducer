@@ -1,0 +1,6 @@
+add_library(cr_utils INTERFACE)
+add_subdirectory(containers)
+add_subdirectory(filetypes)
+add_subdirectory(math)
+add_subdirectory(misc)
+target_link_libraries(cr_utils INTERFACE cutils_containers cutils_filetypes cutils_math cutils_misc)

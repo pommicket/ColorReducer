@@ -1,0 +1,4 @@
+bosch_input.png - The Garden of Earthly Delights - https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg
+world_map_input.png - United State Geological Survey - https://commons.wikimedia.org/wiki/File:Alt_USGS-Map.jpg
+nebula_input.png - The Carina Nebula - https://nssdc.gsfc.nasa.gov/image/astro/hst_carina_ngc3372_0006.jpg
+ode_to_joy_input.wav - Anthem of Europe (US Navy) - https://en.wikipedia.org/wiki/File:Anthem_of_Europe_(US_Navy_instrumental_short_version).ogg
